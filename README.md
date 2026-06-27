@@ -1,9 +1,8 @@
-# odin-form-project
+# webdev-form-validation
 
-I created this project while working through the curriculum of The Odin Project: https://www.theodinproject.com/
+Status: Work in Progress
 
-I used what I have learned about form layout, styling, and validation, as well as pseudo-classes and elements, to build a form to sign up for an imaginary service.
+A sign‑up form built with HTML, CSS, and vanilla JavaScript while working through The Odin Project curriculum. This project explores form layout, styling, validation, and the use of pseudo‑classes and pseudo‑elements.
 
-live preview: https://dk32093.github.io/odin-form-project/
-
-Icy font credit: http://www.misprintedtype.com
+Live Preview: https://dk32093.github.io/webdev-form-validation/
+Font Credit: http://www.misprintedtype.com
